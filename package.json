@@ -2,7 +2,7 @@
   "name": "vue",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Maciej Zadykowicz <hi@maciej.co>",
+  "author": "Pham Xuan Tiep <xuantiep.pham@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
