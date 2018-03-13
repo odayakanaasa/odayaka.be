@@ -66,7 +66,7 @@
       </div>
       <div class="row">
         <p>
-          <a href="https://twitter.com/spaceape" title="@spaceape on Twitter" target="_blank"><span class="highlighter">Twitter</span></a>
+          <a href="https://facebook.com/tiepodayaka" title="@tiepodayaka on Facebook" target="_blank"><span class="highlighter">Facebook</span></a>
           <a href="https://github.com/errorists" title="Maciej&#39;s GitHub" target="_blank"><span class="highlighter">GitHub</span></a>
         </p>
       </div>
