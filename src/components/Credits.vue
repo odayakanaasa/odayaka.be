@@ -52,14 +52,14 @@
     </div>
     <div class="credits">
       <div class="row">
-        <p><em>About<br />—</em><span class="tooltip t00">Maciej</span> is a <span class="tooltip t01">multidisciplinary</span> <span class="tooltip t02">product designer</span> helping startups and brands in <span class="tooltip t03">designing</span> and <span class="tooltip t04">building</span> digital products, services, and experiences.
+        <p><em>Giới thiệu<br />—</em><span class="tooltip t00">Odayaka</span> là một <span class="tooltip t01">thiết kế mẫu</span> <span class="tooltip t02">phát triển nội dung website, và AdSense.</span> cung cấp các sản phẩm liên quan đến <span class="tooltip t03">designing</span> and <span class="tooltip t04">building</span> digital products, services, and experiences.
         </p>
-        <p><em>Get in touch<br />—</em><a href="mailto:hi@maciej.co" title="Maciej&#39;s mailbox"><span class="highlighter">hi@maciej.co</span></a>
+        <p><em>Gọi ngay<br />—</em><a href="tel:+841257223268" title="Điện thoại cho Odayaka"><span class="highlighter">0125 722 3268</span></a>
         </p>
       </div>
       <div class="row">
         <p><em>Currently<br />—</em><span class="unavailable">Unavailable for design work.</span><br />Making Mosaic, an app for pixel art makers, and this other thing for musicians, soon to be announced.</p>
-        <p><em>Previously<br />—</em><a href="https://www.opera.com" target="_blank"><span class="highlighter">Opera</span></a><br />
+        <p><em>Liên lạc khác<br />—</em><a href="mailto:xuantiep.pham@gmail.com" target="_blank"><span class="highlighter">xuantiep.pham@gmail.com</span></a><br />
           <a href="https://explaineverything.com" target="_blank"><span class="highlighter">Explain Everything</span></a><br />
           <a href="https://www.good.com" target="_blank"><span class="highlighter">Good</span></a>
         </p>
@@ -149,7 +149,7 @@ em {
   }
   &.t00::after {
     width: 160px;
-    content: 'Pronounced mah-ch`yay';
+    content: 'Là biệt danh của Phạm Xuân Tiếp';
   }
   &.t01::after {
     width: 180px;
