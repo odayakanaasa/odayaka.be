@@ -4,9 +4,9 @@
     <Hero/>
 
     <Card id="itondo" class="light">
-      <h3 slot='cardTitle'>Itondo</h3>
+      <h3 slot='cardTitle'>Menu thực đơn quán ăn</h3>
       <div slot='cardContent'>
-        <p><span>2014&mdash;2015</span>Itondo is an iOS app for discovering, buying and trying out art. It allows anyone with an iPad to browse a curated selection of artworks from world-renowned artists and galleries and see how they’d look like in their home, office or art space with the help of an augmented reality powered Live Preview mode. Once settled on the perfect piece, they can buy it directly without leaving the app.</p>
+        <p><span>2017-2018</span>Menu được làm lại theo đơn đặt hàng của Trà Sữa Chip Chip Phú Quốc, với danh mục 45 món ăn mới của quán, Phối theo phong cách tự do không theo khuôn khổ nào, thỏa mãn nhu cầu đẹp, bắt mắt, và trọng tâm.</p>
         <div class="buttons">
           <router-link to="/itondo/" class='button'><span class="highlighter">Case study</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></router-link>
           <a href="https://itunes.apple.com/au/app/itondo/id1004978847?mt=8" class='button' target="_blank"><span class="highlighter">Get it on the App Store</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></a>
