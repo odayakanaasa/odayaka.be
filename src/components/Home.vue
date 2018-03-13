@@ -9,7 +9,7 @@
         <p><span>2017-2018</span>Menu được làm lại theo đơn đặt hàng của Trà Sữa Chip Chip Phú Quốc, với danh mục 45 món ăn mới của quán, Phối theo phong cách tự do không theo khuôn khổ nào, thỏa mãn nhu cầu đẹp, bắt mắt, và trọng tâm.</p>
         <div class="buttons">
           <router-link to="/thucdonquanan/" class='button'><span class="highlighter">Case study</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></router-link>
-          <a href="https://itunes.apple.com/au/app/itondo/id1004978847?mt=8" class='button' target="_blank"><span class="highlighter">Get it on the App Store</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></a>
+          <a href="mailto:xuantiep.pham@gmail.com" class='button' target="_blank"><span class="highlighter">Get file .PSD Photoshop</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></a>
         </div>
       </div>
       <ul slot='cardList'>
@@ -21,9 +21,8 @@
         <li><h4>Icons</h4></li>
       </ul>
       <Flickity slot='cardGallery' ref="flickity" :options="flickityOptions" class='gallery'>
-        <figure class="item tablet"><img src='../assets/a1.jpg' alt="Itondo Collection View" width="1280" height="960"/></figure>
-        <figure class="item portrait"><img src='../assets/a2.jpg' alt="Itondo Artist View" width="960" height="1280"/></figure>
-        <figure class="item tablet"><img src='../assets/a3.jpg' alt="Itondo Art View" width="1280" height="960"/></figure>
+        <figure class="item tablet"><img src='../assets/a1.png' alt="Thực đơn của quán ăn view" width="1280" height="960"/></figure>
+        <figure class="item portrait"><img src='../assets/a2.png' alt="Thực đơn của quán ăn view" width="960" height="1280"/></figure>
       </Flickity>
     </Card>
 
