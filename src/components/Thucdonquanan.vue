@@ -1,5 +1,5 @@
 <template>
-  <main id="caseItondo" class="caseStudy">
+  <main id="caseThucdonquanan" class="caseStudy">
 
     <CaseHero>
       <ul slot='headerRole'>
@@ -23,12 +23,12 @@
         <li><h5>Duration</h5></li>
         <li><h5>4 months</h5></li>
       </ul>
-      <h3 slot='headerTitle'>Itondo</h3>
+      <h3 slot='headerTitle'>Menu thực đơn quán ăn</h3>
       <ul slot='headerChallenges'>
-        <li><h5>Challenges</h5></li>
-        <li><div><span>1</span><p>Creating brand and personality for a digital e-commerce product.</p></div></li>
-        <li><div><span>2</span><p>Coming up with a design that respects art and its audience</p></div></li>
-        <li><div><span>3</span><p>Delivering a robust AR experience.</p></div></li>
+        <li><h5>Yêu cầu</h5></li>
+        <li><div><span>1</span><p>Thiết kế bản menu đặc biệt, vừa có nét cổ xưa, hiện đại vẫn làm nổi bật món ăn.</p></div></li>
+        <li><div><span>2</span><p>Các hình ảnh và giá cả, tên món ăn phải được làm nổi bật</p></div></li>
+        <li><div><span>3</span><p>Làm thu hút những món ăn ruột của quán.</p></div></li>
       </ul>
       <div slot='headerPic' class="h-pic"></div>
     </CaseHero>
