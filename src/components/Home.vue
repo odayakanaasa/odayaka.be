@@ -22,7 +22,7 @@
       </ul>
       <Flickity slot='cardGallery' ref="flickity" :options="flickityOptions" class='gallery'>
         <figure class="item tablet"><img src='../assets/a1.png' alt="Thực đơn của quán ăn view" width="1280" height="960"/></figure>
-        <figure class="item portrait"><img src='../assets/a2.png' alt="Thực đơn của quán ăn view" width="960" height="1280"/></figure>
+        <figure class="item portrait"><img src='../assets/a2.png' alt="Thực đơn của quán ăn view" width="1280" height="960"/></figure>
       </Flickity>
     </Card>
 
