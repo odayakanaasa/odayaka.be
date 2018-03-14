@@ -149,7 +149,7 @@ export default {
 }
 .h-pic {
 	width: 1380px; height: 750px;
-	background: url('../assets/itondo-hero.jpg') no-repeat 0 0;
+	background: url('../assets/thucdonquanan-heo.jpg') no-repeat 0 0;
 	background-size: contain;
 }
 .gallery::before {
