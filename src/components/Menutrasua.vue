@@ -91,7 +91,7 @@
 
     <LinkGroup>
       <router-link to="/" slot='backLink' class='button'><span class="highlighter">Go back</span></router-link>
-      <router-link to="/itondo/" slot='nextLink' class='button'><span class="highlighter">Next</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></router-link>
+      <router-link to="/thucdonquanan/" slot='nextLink' class='button'><span class="highlighter">Next</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></router-link>
     </LinkGroup>
 
   </main>

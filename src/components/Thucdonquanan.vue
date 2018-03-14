@@ -99,7 +99,7 @@
     <LinkGroup>
       <router-link to="/" slot='backLink' class='button'><span class="highlighter">Go back</span></router-link>
       <a href="https://itunes.apple.com/au/app/itondo/id1004978847?mt=8" slot='storeLink' class='button' target="_blank"><span class="highlighter">Get it on the App Store</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></a>
-      <router-link to="/mirage/" slot='nextLink' class='button'><span class="highlighter">Next</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></router-link>
+      <router-link to="/menutrasua/" slot='nextLink' class='button'><span class="highlighter">Next</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></router-link>
     </LinkGroup>
 
   </main>
