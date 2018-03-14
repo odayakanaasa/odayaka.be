@@ -31,7 +31,7 @@
       <div slot='cardContent'>
         <p><span>2017</span>Trong một lần tình cờ vì công việc gia đình, có quen biết chủ quán Trà Sữa ở Phú Quốc, nên nhân dịp này mình cũng triển khai làm một menu tặng để làm quen luôn, đây là bản menu thiết kế hồn nhiên vô tư nhất, vì sau 5 năm không làm thiết kế mà bắt đầu làm trở lại.</p>
         <div class="buttons">
-          <router-link to="/mirage/" class='button'><span class="highlighter">Case study</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></router-link>
+          <router-link to="/menutrasua/" class='button'><span class="highlighter">Case study</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></router-link>
 	  <a href="mailto:xuantiep.pham@gmail.com" class='button' target="_blank"><span class="highlighter">Bản thiết kế đã cũ</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></a>
         </div>
       </div>
