@@ -14,10 +14,10 @@
         <li><h5>Sáng tạo mẫu</h5></li>
       </ul>
       <ul slot='headerDeliverables'>
-        <li><h5>Deliverables</h5></li>
-        <li><h5>Guidelines</h5></li>
-        <li><h5>Mockups</h5></li>
-        <li><h5>Prototype</h5></li>
+        <li><h5>Ý tưởng từ</h5></li>
+        <li><h5>Hình ảnh cho trước</h5></li>
+        <li><h5>Japanese Restaurant</h5></li>
+        <li><h5>Lễ hội</h5></li>
       </ul>
       <ul slot='headerDuration'>
         <li><h5>Thời gian hoàn thành</h5></li>
@@ -34,7 +34,7 @@
     </CaseHero>
 
     <article>
-      We began the project in a team of three designers with interviewing Karen and Dirk, who came to us with their idea for the product. From the beginning, we all felt the augmented reality tech could have a transformative effect on the online art trade industry. So that’s what we started with, a rough working proof of concept for the AR module that allowed us to rally interest around the idea and get a feeling of how well it worked.
+      Odayaka bắt đầu đảm nhận dự án phác họa lại menu mới dành cho quán ăn của Trà Sữa Chip Chip, Phú Quốc. Thông qua cuộc trò chuyện về việc phát triển quán do lượng khách đông đảo hơn, nên đã nhập đa dạng nhiều nguyên liệu để làm đa dạng lựa chọn món ăn cho khách hàng, thông qua Phan Huỳnh Nga, chủ quán Trà Sữa, cung cấp hình ảnh và danh sách món ăn, Odayaka bắt đầu bước vào quá trình phác họa hình thành bản nháp xem trước, rất may mắn là bên quán ăn họ rất dễ dàng chấp nhận mọi bản thiết kế mà không đòi hỏi phức tạp nên Odayaka có thể tự nhiên thiết kế mẫu theo ý muốn của mình.
     </article>
 
     <Card class="light">
