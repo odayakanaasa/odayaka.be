@@ -3,28 +3,28 @@
 
     <CaseHero>
       <ul slot='headerRole'>
-        <li><h5>Role</h5></li>
-        <li><h5>Lead designer</h5></li>
+        <li><h5>Vai trò</h5></li>
+        <li><h5>Thiết kế chủ đạo</h5></li>
       </ul>
       <ul slot='headerScope'>
-        <li><h5>Scope</h5></li>
-        <li><h5>Product Design</h5></li>
-        <li><h5>Art Direction, Branding</h5></li>
-        <li><h5>Animation</h5></li>
-        <li><h5>Prototyping</h5></li>
+        <li><h5>Phạm vi thực hiện</h5></li>
+        <li><h5>Thiết kế sản phẩm</h5></li>
+        <li><h5>Chỉ đạo hướng thiết kế, thương hiệu</h5></li>
+        <li><h5>Hoạt họa</h5></li>
+        <li><h5>Sáng tạo mẫu</h5></li>
       </ul>
       <ul slot='headerDeliverables'>
-        <li><h5>Deliverables</h5></li>
-        <li><h5>Wireframes</h5></li>
-        <li><h5>Guidelines</h5></li>
-        <li><h5>Mockups</h5></li>
-        <li><h5>Prototype</h5></li>
+        <li><h5>Lên ý tưởng</h5></li>
+        <li><h5>A4</h5></li>
+        <li><h5>Tình cảm trong sáng</h5></li>
+        <li><h5>Anime</h5></li>
+        <li><h5>Cảm hứng</h5></li>
       </ul>
       <ul slot='headerDuration'>
-        <li><h5>Duration</h5></li>
-        <li><h5>5 months</h5></li>
+        <li><h5>Thời gian thực hiện</h5></li>
+        <li><h5>2 ngày</h5></li>
       </ul>
-      <h3 slot='headerTitle'>Mirage</h3>
+      <h3 slot='headerTitle'>Menu Trà Sữa</h3>
       <ul slot='headerChallenges'>
         <li><h5>Challenges</h5></li>
         <li><div><span>1</span><p>Complexity in designing for every possible streaming music and radio service.</p></div></li>
