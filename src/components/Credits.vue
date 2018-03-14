@@ -444,7 +444,7 @@ c72 0 126 3 120 6 -7 2 -13 11 -13 20 0 8 -24 40 -54 71 -75 78 -188 234 -177
       <div class="row">
         <p>
           <a href="https://facebook.com/tiepodayaka" title="@tiepodayaka on Facebook" target="_blank"><span class="highlighter">Facebook</span></a>
-          <a href="https://github.com/errorists" title="Maciej&#39;s GitHub" target="_blank"><span class="highlighter">GitHub</span></a>
+          <a href="https://github.com/odayakanaasa" title="Odayaka GitHub" target="_blank"><span class="highlighter">GitHub</span></a>
         </p>
       </div>
     </div>
