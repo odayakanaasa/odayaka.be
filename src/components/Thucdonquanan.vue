@@ -3,8 +3,8 @@
 
     <CaseHero>
       <ul slot='headerRole'>
-        <li><h5>Role</h5></li>
-        <li><h5>Lead designer</h5></li>
+        <li><h5>Vai trò</h5></li>
+        <li><h5>Người thiết kế</h5></li>
       </ul>
       <ul slot='headerScope'>
         <li><h5>Scope</h5></li>
