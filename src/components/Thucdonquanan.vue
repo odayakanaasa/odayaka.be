@@ -7,11 +7,11 @@
         <li><h5>Người thiết kế</h5></li>
       </ul>
       <ul slot='headerScope'>
-        <li><h5>Scope</h5></li>
-        <li><h5>Product Design</h5></li>
-        <li><h5>Art Direction, Branding</h5></li>
-        <li><h5>Animation, Illustration</h5></li>
-        <li><h5>Prototyping</h5></li>
+        <li><h5>Trong phạm vi</h5></li>
+        <li><h5>Thiết kế sản phẩm</h5></li>
+        <li><h5>Chỉ đạo hướng thiết kế, thương hiệu</h5></li>
+        <li><h5>Hoạt họa, Minh họa</h5></li>
+        <li><h5>Sáng tạo mẫu</h5></li>
       </ul>
       <ul slot='headerDeliverables'>
         <li><h5>Deliverables</h5></li>
@@ -20,8 +20,8 @@
         <li><h5>Prototype</h5></li>
       </ul>
       <ul slot='headerDuration'>
-        <li><h5>Duration</h5></li>
-        <li><h5>4 months</h5></li>
+        <li><h5>Thời gian hoàn thành</h5></li>
+        <li><h5>2 tuần</h5></li>
       </ul>
       <h3 slot='headerTitle'>Menu thực đơn quán ăn</h3>
       <ul slot='headerChallenges'>

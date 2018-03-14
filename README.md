@@ -1,6 +1,6 @@
 # odayaka.be
 
-Source files of my personal website [odayaka.co](https://www.odayaka.co).
+Source files of my personal website [odayaka.be](https://www.odayaka.be).
 
 > Made with [Vue.js](http://vuejs.github.io)
 
