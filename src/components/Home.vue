@@ -27,9 +27,9 @@
     </Card>
 
     <Card id="mirage" class="dark">
-      <h3 slot='cardTitle'>Mirage</h3>
+      <h3 slot='cardTitle'>Menu Trà Sữa</h3>
       <div slot='cardContent'>
-        <p><span>2015</span>Mirage is the app companion to the range of wireless speakers and media players of the same name, made by Autonomic Controls in the US. It’s the digital hub of all music in the house, bridging the gap between different service providers and radio stations with fine-grained control for different rooms, users, and programming schedule.</p>
+        <p><span>2017</span>Trong một lần tình cờ vì công việc gia đình, có quen biết chủ quán Trà Sữa ở Phú Quốc, nên nhân dịp này mình cũng triển khai làm một menu tặng để làm quen luôn, đây là bản menu thiết kế hồn nhiên vô tư nhất, vì sau 5 năm không làm thiết kế mà bắt đầu làm trở lại.</p>
         <div class="buttons">
           <router-link to="/mirage/" class='button'><span class="highlighter">Case study</span><svg width="9" height="14" viewBox="0 0 9 14"><path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/></svg></router-link>
         </div>
