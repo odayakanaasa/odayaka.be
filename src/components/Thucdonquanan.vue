@@ -38,13 +38,15 @@
     </article>
 
     <Card class="light">
-      <h3 slot='cardTitle'>Tranh<br />treo tường</h3>
+      <h3 slot='cardTitle'>Tranh<br />treo wall</h3>
       <div slot='cardContent'>
         <p>Một vài hình ảnh sản phẩm thiết kế để treo tường cho quán Trà Sữa, lấy ý tưởng từ anime Food War của Nhật Bản.</p>
       </div>
       <Flickity slot='cardGallery' ref="flickity" :options="flickityOptions" class='gallery'>
-        <figure class="item tablet"><img src='../assets/a5.jpg' alt="AR Empty" width="1280" height="960"/></figure>
-        <figure class="item tablet"><img src='../assets/a6.jpg' alt="AR Painting" width="1280" height="960"/></figure>
+        <figure class="item tablet"><img src='../assets/a5.jpg' alt="Tranh treo 1" width="1280" height="960"/></figure>
+        <figure class="item tablet"><img src='../assets/a6.jpg' alt="Tranh treo 2" width="1280" height="960"/></figure>
+	<figure class="item tablet"><img src='../assets/a6-1.jpg' alt="Tranh treo 3" width="1280" height="960"/></figure>
+	<figure class="item tablet"><img src='../assets/a6-2.jpg' alt="Tranh treo 4" width="1280" height="960"/></figure>
       </Flickity>
     </Card>
 
