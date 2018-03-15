@@ -435,10 +435,10 @@ c72 0 126 3 120 6 -7 2 -13 11 -13 20 0 8 -24 40 -54 71 -75 78 -188 234 -177
         </p>
       </div>
       <div class="row">
-        <p><em>Currently<br />—</em><span class="unavailable">Unavailable for design work.</span><br />Making Mosaic, an app for pixel art makers, and this other thing for musicians, soon to be announced.</p>
+        <p><em>Tình trạng công việc<br />—</em><span class="unavailable">Có thể nhận việc ngay bây giờ.</span><br />Đang thiết kế mẫu menu mới, và phát triển web để đăng ký AdSense..</p>
         <p><em>Liên lạc khác<br />—</em><a href="mailto:xuantiep.pham@gmail.com" target="_blank"><span class="highlighter">xuantiep.pham@gmail.com</span></a><br />
-          <a href="https://explaineverything.com" target="_blank"><span class="highlighter">Explain Everything</span></a><br />
-          <a href="https://www.good.com" target="_blank"><span class="highlighter">Good</span></a>
+          <a href="http://thaoam.com" target="_blank"><span class="highlighter">DNTN Thảo Am</span></a><br />
+          <a href="http://bakadono.com" target="_blank"><span class="highlighter">Bakadono</span></a>
         </p>
       </div>
       <div class="row">
