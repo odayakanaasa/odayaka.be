@@ -51,13 +51,13 @@
     </Card>
 
     <article>
-      The next step was to create a brand identity for Itondo. Between its name which translates to a round painting and the AR module, I had plenty enough to work with. For the app icon/logotype, I went with a round camera iris with brush strokes in place of blades. I knew from the start that I want the interface to be simple in form and for that to work I needed a dedicated typeface. After some trial and error, I’ve chosen <a href="http://ffmark.com"><span class="highlighter">FF Mark</span></a>, a neo-grotesque with wide proportions and a warmer tone than other geometric sans serifs. Paired with the icon it gave me a perfect read on where to go further with the design, and that was round shapes, restrained use of warm tones and unrestrained white space. Now for the last piece of the puzzle, I introduced watercolors, the single detail that would complete the brand.
+      Ngay sau khi đảm nhận công việc thiết lập Facebook cho quán trà sữa <a href="http://facebook.com/phuquoctrasua"><span class="highlighter">@phuquoctrasua</span></a> thì Odayaka, tại thời điểm đó vẫn còn được gọi bằng cái tên <strong>Thảo Am</strong> tiến hành viết mã website, và phát triển trang web <a href="http://trasuaphuquoc.com"><span class="highlighter">TraSuaPhuQuoc.com</span></a> cho quán với tiêu chí chung là hiển thị mọi sản phẩm bắt mắt mà quán đang cung cấp, kèm theo lời giới thiệu rõ ràng được viết lại dựa theo nguyên mẫu cho trước từ cuộc đời của một cô gái 25 tuổi. Đồng thời website liên hệ chặt chẽ với facebook cá nhân giúp mọi người có thể đặt hàng nhanh chóng hơn.
     </article>
 
     <Card class="light">
-      <h3 slot='cardTitle'>Brand</h3>
+      <h3 slot='cardTitle'>Tranh treo 20x30</h3>
       <div slot='cardContent'>
-        <p>I’ve created a number of illustrations to accompany the Itondo onboarding process. I wanted them to be an extension of the interface and not to be confused with art, hence the simple blocky appearance and warm tones. The magenta colour was a choice of the client and I’ve grown to really like it. I feel like for this design any bold color could work.</p>
+        <p>Sau khi thiết kế bản tranh treo wall cho quán, nhận thấy tỷ lệ còn khá nhỏ nên đã thiết kế bản lớn hơn phối lại vẫn dựa theo phong cách cũ tuy nhiên tăng kích thước lên 20x30cm.</p>
       </div>
       <Flickity slot='cardGallery' ref="flickity" :options="flickityOptions" class='gallery'>
         <figure class="item picture"><img src='../assets/a8.jpg' alt="Illustration" width="1160" height="1024"/></figure>
