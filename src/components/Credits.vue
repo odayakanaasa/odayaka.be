@@ -429,7 +429,7 @@ c72 0 126 3 120 6 -7 2 -13 11 -13 20 0 8 -24 40 -54 71 -75 78 -188 234 -177
     </div>
     <div class="credits">
       <div class="row">
-        <p><em>Giới thiệu<br />—</em><span class="tooltip t00">Odayaka</span> là một <span class="tooltip t01">thiết kế mẫu</span> <span class="tooltip t02">phát triển nội dung website, và AdSense.</span> cung cấp các sản phẩm liên quan đến <span class="tooltip t03">designing</span> and <span class="tooltip t04">building</span> digital products, services, and experiences.
+        <p><em>Giới thiệu<br />—</em><span class="tooltip t00">Odayaka</span> là một <span class="tooltip t01">thiết kế mẫu</span> <span class="tooltip t02">phát triển nội dung website, và AdSense.</span> cung cấp các sản phẩm liên quan đến <span class="tooltip t03">thiết kế</span> and <span class="tooltip t04">xây dựng</span> các sản phẩm công nghệ, sản phẩm thực dụng cho cuộc sống.
         </p>
         <p><em>Gọi ngay<br />—</em><a href="tel:+841257223268" title="Điện thoại cho Odayaka"><span class="highlighter">0125 722 3268</span></a>
         </p>
@@ -530,11 +530,11 @@ em {
   }
   &.t01::after {
     width: 180px;
-    content: 'I embrace being a generalist.';
+    content: 'Thiết kế dạo, làm mẫu gì đó mà khách hàng yêu cầu.';
   }
   &.t02::after {
     width: 230px;
-    content: '…buzzword du jour. What it means is, I take ownership of the entire end to end design process.';
+    content: 'Thường là các website phục vụ cho việc đăng ký AdSense, hoặc website cá nhân, doanh nghiệp.';
   }
   &.t03::after {
     width: 240px;
@@ -542,7 +542,7 @@ em {
   }
   &.t04::after {
     width: 150px;
-    content: 'HTML/CSS/JS, React, Vue, Framer';
+    content: 'HTML/CSS/JS, React, Vue, Framer, Gatsby, Netlify, GitHub, và những sản phẩm nhỏ khác';
   }
   &:hover {
     color: hsl(234,10%,60%);
