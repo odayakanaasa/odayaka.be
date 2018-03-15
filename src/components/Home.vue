@@ -73,6 +73,9 @@
         <figure class="item tablet"><img src='../assets/c2.jpg' alt="Explain Everything Collection View" width="1280" height="960"/></figure>
         <figure class="item phone"><img src='../assets/c3.jpg' alt="Explain Everything iPhone" width="750" height="1334"/></figure>
         <figure class="item tablet"><img src='../assets/c1.jpg' alt="Explain Everything Art View" width="1280" height="960"/></figure>
+	<figure class="item tablet"><img src='../assets/c0-1.jpg' alt="Explain Everything Art View" width="1280" height="960"/></figure>
+	<figure class="item tablet"><img src='../assets/c0-2.jpg' alt="Explain Everything Art View" width="1280" height="960"/></figure>
+	<figure class="item tablet"><img src='../assets/c0-3.jpg' alt="Explain Everything Art View" width="1280" height="960"/></figure>
       </Flickity>
     </Card>
 
