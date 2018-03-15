@@ -50,9 +50,9 @@
     </Card>
 
     <Card id="explain" class="light">
-      <h3 slot='cardTitle'>Explain Everything</h3>
+      <h3 slot='cardTitle'>Love</h3>
       <div slot='cardContent'>
-        <p><span>2015&mdash;2016</span>Explain Everything is a digital interactive whiteboard made for educators, students, and creators to communicate their ideas, teach and learn from others. For over a year I worked as product designer on the team. Together we conceptualized, designed and communicated new groundbreaking features like real-time collaboration, apps for the iPhone and Apple TV and the introduction of Discover, a content sharing portal for all things made with Explain Everything.</p>
+        <p><span>2016&mdash;2017</span>Những thiết kế để tưởng nhớ những người phụ nữ đã đi qua trong cuộc đời, chia ly mãi mãi trong bầu trời xanh.</p>
         <div class="buttons">
           <a href="https://itunes.apple.com/app/id1020339980?mt=8" target="_blank" class="button"><span class="highlighter">Get it on the App Store</span><svg width="9" height="14" viewBox="0 0 9 14">
           <path stroke-width="1.8" d="M1.5 1.5L7 7l-5.5 5.5" fill="none" fill-rule="evenodd"/>
@@ -63,11 +63,11 @@
         </div>
       </div>
       <ul slot='cardList'>
-        <li><h4>Product Design</h4></li>
-        <li><h4>Web Design</h4></li>
-        <li><h4>Prototyping</h4></li>
-        <li><h4>Illustration</h4></li>
-        <li><h4>Animation</h4></li>
+        <li><h4>Personal Design</h4></li>
+        <li><h4>Love Design</h4></li>
+        <li><h4>Yêu</h4></li>
+        <li><h4>Hoạt Họa</h4></li>
+        <li><h4>Minh họa</h4></li>
       </ul>
       <Flickity slot='cardGallery' ref="flickity" :options="flickityOptions" class='gallery'>
         <figure class="item tablet"><img src='../assets/c2.jpg' alt="Explain Everything Collection View" width="1280" height="960"/></figure>
