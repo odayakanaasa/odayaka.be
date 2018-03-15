@@ -80,9 +80,9 @@
     </Card>
 
     <Card id="juice" class="dark">
-      <h3 slot='cardTitle'>Juice</h3>
+      <h3 slot='cardTitle'>New Year</h3>
       <div slot='cardContent'>
-        <p><span>2014</span>Juice is a fitness tracking app built with casual, daily use in mind. It tracks all movement, translates it into calories burnt and overlays the distance taken onto a map. Using the app should feel like having a journal for daily activity: a record of how healthy each day was, of where and when you traveled. The app also allows competing against others in achieving these goals.</p>
+        <p><span>2015</span>Bản thiết kế dành tặng cho bà dì nhân dịp tết bán gà ta, vịt xiêm, bánh trưng, bánh tét. Trong giai đoạn này mình thiết kế cực kỳ phức tạp nên không hề nhớ rõ cấu trúc của nó nữa.</p>
       </div>
       <ul slot='cardList'>
         <li><h4>UI Design</h4></li>
@@ -91,7 +91,7 @@
         <li><h4>Animation</h4></li>
       </ul>
       <Flickity slot='cardGallery' ref="flickity" :options="flickityOptions" class='gallery'>
-        <figure class="item phone"><img src='../assets/e1.jpg' alt="Juice Steps View" width="750" height="1334"/></figure>
+        <figure class="item tablet"><img src='../assets/e1.jpg' alt="Tết" width="1280" height="960"/></figure>
         <figure class="item phone"><img src='../assets/e2.jpg' alt="Juice Activity View" width="750" height="1334"/></figure>
         <figure class="item phone"><img src='../assets/e3.jpg' alt="Juice Distance View" width="750" height="1334"/></figure>
       </Flickity>
